@@ -8,3 +8,4 @@ export * from "./sonner";
 export * from "./skeleton";
 export * from "./badge";
 export * from "./loading-spinner";
+export * from "./pagination";
